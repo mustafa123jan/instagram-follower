@@ -14,6 +14,7 @@
 * `git clone https://github.com/mustafa123jan/instagram-follower.git`
 * `cd instagram-follower`
 
+#### > Run : `bash setup.sh`
 #### > Run : `bash insta-follower.sh`
 
 
